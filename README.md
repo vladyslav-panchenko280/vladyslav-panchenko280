@@ -29,5 +29,6 @@
 ![Gulp](https://img.shields.io/badge/Gulp-D3D3D3?style=for-the-badge&logo=Gulp&logoColor=DB4446)
 
 ### Contact me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D3D3D3?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/vladyslav-panchenko280/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vladyslav&ndash;panchenko280-brightgreen)](https://www.linkedin.com/in/vladyslav-panchenko280/)
+[![Telegram](https://img.shields.io/badge/Telegram-@vladyslavpanchenko-brightgreen)](https://t.me/vladyslavpanchenko)
 
