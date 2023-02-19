@@ -2,9 +2,9 @@
 
 - 💻 I'm Full-Stack Developer
 - 💼 2 years experience in the industry 
-- 🔍 Have a strong attention to detail.
+- 🔍 Strong attention to detail.
 - ⚡ Working in a fast-paced, dynamic environment and thrive under pressure
-- 🎨 Have creative mindset and a penchant for problem-solving
+- 🎨 Creative mindset and a penchant for problem-solving
 - 🤝 Strong team player and enjoy collaborating with other developers, designers, and stakeholders
 - 🙋‍♂️ Not afraid to ask questions, provide constructive feedback, and help others when needed
 
