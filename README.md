@@ -31,4 +31,5 @@
 ### Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vladyslav&ndash;panchenko280-brightgreen)](https://www.linkedin.com/in/vladyslav-panchenko280/)
 [![Telegram](https://img.shields.io/badge/Telegram-@vladyslavpanchenko-brightgreen)](https://t.me/vladyslavpanchenko)
+[![Gmail](https://img.shields.io/badge/Gmail-vladpanchenko280@gmail.com-brightgreen)](mailto:vladpanchenko280@gmail.com)
 
