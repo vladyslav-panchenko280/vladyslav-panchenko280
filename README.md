@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile 👋
 
 - 💻 I'm Full-Stack Developer
-- 💼 2 years experience in the industry 
+- 💼 2 years experience in e-commerce niche
 - 🔍 Strong attention to detail.
 - ⚡ Working in a fast-paced, dynamic environment and thrive under pressure
 - 🎨 Creative mindset and a penchant for problem-solving
