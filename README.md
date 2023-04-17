@@ -1,7 +1,6 @@
 # Welcome to my GitHub profile 👋
 
 - 💻 I'm Full-Stack Developer
-- 💼 2 years commercial experience
 - 🔍 Strong attention to detail.
 - ⚡ Working in a fast-paced, dynamic environment and thrive under pressure
 - 🎨 Creative mindset and a penchant for problem-solving
