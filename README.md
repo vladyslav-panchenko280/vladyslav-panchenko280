@@ -5,7 +5,6 @@
 - ⚡ Working in a fast-paced, dynamic environment and thrive under pressure
 - 🎨 Creative mindset and a penchant for problem-solving
 - 🤝 Strong team player and enjoy collaborating with other developers, designers, and stakeholders
-- 🙋‍♂️ Not afraid to ask questions, provide constructive feedback, and help others when needed
 
 ### Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
