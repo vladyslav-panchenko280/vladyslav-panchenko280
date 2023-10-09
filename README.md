@@ -1,11 +1,5 @@
 # Welcome to my GitHub profile 👋
 
-- 💻 I'm Full-Stack Developer
-- 🔍 Strong attention to detail.
-- ⚡ Working in a fast-paced, dynamic environment and thrive under pressure
-- 🎨 Creative mindset and a penchant for problem-solving
-- 🤝 Strong team player and enjoy collaborating with other developers, designers, and stakeholders
-
 ### Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=HTML5&logoColor=white)
