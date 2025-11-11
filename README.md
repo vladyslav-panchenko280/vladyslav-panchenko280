@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vladyslav-panchenko280" alt="vladyslav-panchenko280" /></a> </p>
 
-- 🔭 I’m currently working on [SurplusMap](https://www.surplusmap.com)
+- 🔭 I’m currently working on [Info-polus](https://www.info-polus.com)
 
 - 🌱 I’m currently learning advanced cloud infrastructure, distributed systems, and zero trust security
 
