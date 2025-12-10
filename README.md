@@ -72,6 +72,7 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/rds/aurora/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aurora-db" width="40" height="40"/></a>
 </p>
 
 ### DevOps / CI/CD
@@ -82,6 +83,13 @@
   <a href="https://gulpjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/></a>
   <a href="https://github.com/features/actions" target="_blank"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="github-actions" width="40" height="40"/></a>
   <a href="https://www.pulumi.com/" target="_blank"><img src="https://assets.streamlinehq.com/image/private/w_34,h_34,ar_1/f_auto/v1/icons/logos/pulumi-a17qzfrprkbbxa6bpaxdr.png/pulumi-yo1na6ln6lcvd96rg0hl9a.png" alt="pulumi" width="40" height="40"/></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/></a>
+  <a href="https://helm.sh/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="helm" width="40" height="40"/></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
+  <a href="https://grafana.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>
+  <a href="https://prometheus.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/></a>
+  <a href="https://sentry.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" alt="sentry" width="40" height="40"/></a>
 </p>
 
 ### Cloud Platforms
@@ -98,6 +106,8 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://electronjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/></a>
+  <a href="https://www.wireshark.org/" target="_blank"><img src="https://www.wireshark.org/assets/img/wireshark-logo.png" alt="wireshark" width="40" height="40"/></a>
+  <a href="https://www.pfsense.org/" target="_blank"><img src="https://www.pfsense.org/images/logo.svg" alt="pfsense" width="40" height="40"/></a>
 </p>
 
 ### Data Science Libraries
