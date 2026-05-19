@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vladyslav-panchenko280" alt="vladyslav-panchenko280" /></a> </p>
 
-- 🔭 I’m currently working on [Info-polus](https://www.info-polus.com)
+- 🔭 I’m currently working on high-performance, real-time frontend applications at [Evolution](https://www.evolution.com)
 
-- 🌱 I’m currently learning advanced cloud infrastructure, distributed systems, and zero trust security
+- 🌱 I’m currently learning advanced frontend architecture, web performance optimization, and secure-by-design UI
 
-- 👨‍🎓 I’m a Master’s Student in Cybersecurity at [Woolf Institution](https://woolf.university)
+- 👨‍🎓 I’m a Master’s Student in Cybersecurity at [Woolf Institution](https://woolf.university), which helps me build highly secure web applications
 
 - 📝 I write on LinkedIn about GIS, software engineering, and cybersecurity topics
 
-- 💬 Ask me about GIS, React, PostgreSQL, Node.js, Supabase, distributed systems, security architecture
+- 💬 Ask me about React, TypeScript, frontend performance, Node.js, and secure web architecture
 
 - 📫 Reach me at **vladpanchenko280@gmail.com**
 
-- 🧠 I focus on building scalable full-stack systems with security-first principles and geospatial data integrations
+- 🧠 I focus on product engineering—delivering seamless, accessible, and highly performant user interfaces with solid security principles
 
-- 🧭 Currently exploring how geospatial intelligence intersects with threat detection and digital sovereignty
+- 🧭 Currently exploring advanced state management for high-frequency real-time data, WebSockets, and low-latency UI architectures
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
