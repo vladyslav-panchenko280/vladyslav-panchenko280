@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vladyslav</h1>
-<h3 align="center">Software Engineer | GIS, EdTech & LegalTech, Cybersecurity, AI-Powered Video Processing</h3>
+<h3 align="center">Full-Stack Engineer | Agentic AI & GIS & B2B SaaS | React, TypeScript, Next.js, Node.js</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vladyslav-panchenko280&label=Profile%20views&color=0e75b6&style=flat-square" alt="vladyslav-panchenko280" /> </p>
 
