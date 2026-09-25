@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning advanced frontend architecture, web performance optimization, and secure-by-design UI
 
-- 👨‍🎓 I’m a Master’s Student in Cybersecurity at [Woolf Institution](https://woolf.university), which helps me build highly secure web applications
+- 👨‍🎓 I’m a Master’s Student in Computer Science at [Woolf Institution](https://woolf.university), which helps me build highly secure web applications
 
 - 📫 Reach me at **vladpanchenko280@gmail.com**
 
